@@ -1,3 +1,9 @@
+python-twittytwister (0.1-0ubuntu2) unstable; urgency=low
+
+  * Repackaged due to repository changes.
+
+ -- Arjan Scherpenisse <arjan@mediamatic.nl>  Fri, 15 Oct 2010 22:01:23 +0200
+
 python-twittytwister (0.1-0ubuntu1) karmic; urgency=low
 
   * Initial release.
