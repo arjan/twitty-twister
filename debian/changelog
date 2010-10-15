@@ -1,3 +1,9 @@
+python-twittytwister (0.1-0ubuntu3) maverick; urgency=low
+
+  * Corrected maintainer e-mail address
+
+ -- Arjan Scherpenisse <arjan@scherpenisse.net>  Fri, 15 Oct 2010 22:09:05 +0200
+
 python-twittytwister (0.1-0ubuntu2) maverick; urgency=low
 
   * Repackaged due to repository changes.
